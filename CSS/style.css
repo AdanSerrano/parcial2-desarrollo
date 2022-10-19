@@ -135,3 +135,54 @@ header{
 .img-fondo2{
     background-color: rgba(255, 255, 255, 0.75);
 }
+
+footer{
+    background-color: rgba(16, 15, 15, 0.971);
+    color: white;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    padding: 10% 10%;
+}
+.footer h3 , p{
+    font-size: 20px;
+}
+
+.imp1{
+    width: 40%;
+}
+
+.imp2 hr{
+    width: 100%;
+}
+
+.imp3 h3{
+    margin: 0%;
+    text-align: center;
+}
+
+.img-redes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.img-redes img{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+
+.imp1 h2, .imp2 h2, .imp3 h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.foter-div{
+    margin: 20px;
+}
