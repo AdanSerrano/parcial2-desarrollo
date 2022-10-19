@@ -145,7 +145,7 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content:space-around;
-    padding: 10% 10%;
+    padding: 5% 10%;
 }
 .footer h3 , p{
     font-size: 20px;
@@ -164,7 +164,7 @@ footer{
     text-align: center;
 }
 
-.img-redes{
+.img-redes a{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -185,4 +185,10 @@ footer{
 
 .foter-div{
     margin: 20px;
+}
+
+.hr-foter{
+    position: absolute;
+    width: 75%;
+    margin-top: 25%;
 }
