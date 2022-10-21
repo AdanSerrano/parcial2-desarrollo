@@ -88,21 +88,43 @@ header{
     margin: 30px;
 }
 
-.container-con p{
-    margin: 10%;
-}
 .container-con h1{
     text-align: center;
 }
 .container-con p{
     text-align: center;
+    padding: 50px;
 }
 .container-con img{
     width: 150px;
     height: 150px;
     position: relative;
-    left: 30%;
+    left: 100px;
     padding: 20px;
+}
+
+.container-con1{
+    background-color: rgb(255, 250, 250);
+    margin: 30px;
+}
+.contenedor{
+    height: 600px;
+    width: 400px;
+}
+
+.contenedor2{
+    width: 200px;
+    height: 350px;
+    
+}
+.contenedor2 p{
+    padding: 0px;
+    width: 150%;
+    margin: 20px;
+}
+
+.contenedor2 h5{
+    font-size: 15px;
 }
 
 .imagen-ulticies{
@@ -136,8 +158,8 @@ header{
     margin: 20px;
 }
 .hr{
-    width: 7px;
-    height: 150px;
+    width: 2px;
+    height: 300px;
     background-color: grey;
     margin: 10px;
 }
