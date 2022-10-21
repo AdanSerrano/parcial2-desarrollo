@@ -70,6 +70,7 @@ header{
 
 .semper2 h1{
     font-size: 30px;
+    margin-bottom: 60px;
 }
 
 .semper{
@@ -135,7 +136,7 @@ header{
 }
 
 .img-ulticies{
-    background-color: rgba(136, 0, 0, 0.4);
+    background-color: rgba(136, 0, 0, 25%);
     padding: 10% 15% 10%;
 }
 
@@ -200,7 +201,7 @@ header{
 
 footer{
     background-color: rgba(16, 15, 15, 0.971);
-    color: white;
+    color: rgb(182, 178, 178);
 }
 
 .footer{
@@ -238,6 +239,20 @@ footer{
     width: 30px;
     height: 30px;
     margin-right: 20px;
+}
+
+.img-redes a{
+    text-decoration: none;
+    color: rgb(182, 178, 178);
+    padding-right: 20px;
+}
+
+.img-redes a:hover{
+    background-color: black;
+    color: red;
+    padding-right: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 .imp1 h2, .imp2 h2, .imp3 h2{
