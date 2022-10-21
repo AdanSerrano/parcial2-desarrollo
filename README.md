@@ -7,3 +7,6 @@ REALIZAREMOS EL PARCIAL No°2 DE DESARROLLO DE SOFTWARE 2022
 
 ### GRUPO
 **1LS122**
+
+###
+## El parcial no es _responsive_ ya que no lo pide, para verse mejor de manera visual es ver la pagina con un zoom de un ordenador **80% de zoom**
